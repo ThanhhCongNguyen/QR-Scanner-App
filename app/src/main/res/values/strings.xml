@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QR Scanner</string>
+    <string name="qr_scanner_text">QR Scanner</string>
+    <string name="https_text">Https:......</string>
+    <string name="copy_text">Copy</string>
+    <string name="home_text">Home</string>
+</resources>

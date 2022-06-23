@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="space_extra">16dp</dimen>
+    <dimen name="size_of_textview_extra">18sp</dimen>
+    <dimen name="size_of_textview_large">26sp</dimen>
+    <dimen name="radius_default">8dp</dimen>
+    <dimen name="space_default">8dp</dimen>
+    <dimen name="radius">4dp</dimen>
+</resources>
